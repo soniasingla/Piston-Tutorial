@@ -2,7 +2,7 @@
 
 Welcome to Piston tutorial! We're glad you are here 🤗
 
-A piston is a modular open-source game engine that helps in developing 2D, 3D, and a lot of other things. You can learn more about Piston at the official [website](www.piston.rs).
+Piston is a modular open-source game engine that helps in developing 2D, 3D, and a lot of other things. You can learn more about Piston at the official [website](www.piston.rs).
 
 The goal of this tutorial is to help you in building a sample game to test the built environment. As we walk through that process, we hope to get you from an empty Cargo project to having a window with a rotating square in it. 
 The full tutorial is intended to be as accessible as possible to people without much Piston experience - you don’t need to be an expert. 
