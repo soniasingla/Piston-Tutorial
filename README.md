@@ -1,10 +1,9 @@
 ## Getting Started Spinning Square
-### A spinning square
 
-[![Build Status](https://travis-ci.org/PistonDevelopers/Piston-Tutorials.svg?branch=master)](https://travis-ci.org/PistonDevelopers/Piston-Tutorials)
-
-Welcome to the tutorial! We're glad you are here. The goal of this tutorial is to help you in building a sample game to test the built environment. As we walk through that process, we hope to get you from an empty Cargo project to having a window with a rotating square in it. 
+Welcome to Piston tutorial! We're glad you are here. The goal of this tutorial is to help you in building a sample game to test the built environment. As we walk through that process, we hope to get you from an empty Cargo project to having a window with a rotating square in it. 
 The full tutorial is intended to be as accessible as possible to people without much Piston experience - you don’t need to be an expert. 
+
+> A piston is a modular open-source game engine that helps in developing 2D, 3D, and a lot of other things. You can learn more about Piston at the official website
 
 ***Note: This tutorial does not explain concepts used in the game, as those will be covered by other tutorials.***
 
@@ -21,8 +20,6 @@ The full tutorial is intended to be as accessible as possible to people without 
 Before you start building your first game, you need to make sure that you have already installed [Rust and Cargo](https://doc.rust-lang.org/book/ch01-01-installation.html), and have already built a [hello-world project](https://doc.rust-lang.org/book/ch01-02-hello-world.html) with Cargo. 
 
 If you haven’t done so, we recommend you to Install Rust and Cargo. You can follow up [this](https://doc.rust-lang.org/book/ch01-00-getting-started.html) guide
-
-> A piston is a modular open-source game engine that helps in developing 2D, 3D, and a lot of other things. You can learn more about Piston at the official website
 
 To check whether you have `Rust` and `Cargo` installed correctly, open a terminal and enter this:
 
