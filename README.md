@@ -14,7 +14,7 @@ The full tutorial is intended to be as accessible as possible to people without 
 - [**Setting up the project**](#setting-up-the-project)
 - [**Writing Code**](#writing-code)
 - [**Compiling and running**](#compiling-and-running)
-- [**What's Next**](#whats-Next)
+- [**What's Next**](#whats-next)
 
 ## Prerequisites: 
 
@@ -211,6 +211,6 @@ On your screen you should have a rotating square that looks like this:
 <img src="./out.gif">
 </p>
 
-## What's Next?
+## Whats Next?
 
 Take a look at the [piston-examples](https://github.com/pistondevelopers/piston-examples) repository.
